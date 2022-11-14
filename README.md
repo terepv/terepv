@@ -1,8 +1,7 @@
 - Hi, I’m tere 👋
-- I’m interested in Product Design 👀 
-- I’m currently learning product design lol 🌱 
-- I’m looking to collaborate on neat user experiences 💞️ 
-- How to reach me: on linkedin.com/teresa-pegna 📫 
+- I’m a Product Designer 👀 
+- Currently working on my coding skills 🌱 
+- Contact me on linkedin.com/teresa-pegna 📫 
 
 <!---
 terepv/terepv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
